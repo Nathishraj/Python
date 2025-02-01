@@ -6,3 +6,6 @@ A Python script to manage a Bank Management System (BMS). It includes functional
 
 BMS_GUI.py :
 An upgraded version of the Bank Management System with a graphical user interface (GUI) built using Tkinter.
+
+Shopping_MS.py :
+Developed a Shopping Management System using Python and MySQL for efficient order and customer management.
